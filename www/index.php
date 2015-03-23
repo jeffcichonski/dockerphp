@@ -1,7 +1,7 @@
 
 
 <?php
-$servername = "172.17.0.32";
+$servername = "mysql";
 $username = "root";
 $password = "password";
 $dbname = "test";
